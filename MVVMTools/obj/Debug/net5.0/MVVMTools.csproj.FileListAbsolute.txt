@@ -1,0 +1,12 @@
+C:\Users\Steve\source\Exemple\NetAngular\CorrectifMovieCollection\MVVMTools\bin\Debug\net5.0\MVVMTools.deps.json
+C:\Users\Steve\source\Exemple\NetAngular\CorrectifMovieCollection\MVVMTools\bin\Debug\net5.0\MVVMTools.dll
+C:\Users\Steve\source\Exemple\NetAngular\CorrectifMovieCollection\MVVMTools\bin\Debug\net5.0\ref\MVVMTools.dll
+C:\Users\Steve\source\Exemple\NetAngular\CorrectifMovieCollection\MVVMTools\bin\Debug\net5.0\MVVMTools.pdb
+C:\Users\Steve\source\Exemple\NetAngular\CorrectifMovieCollection\MVVMTools\obj\Debug\net5.0\MVVMTools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steve\source\Exemple\NetAngular\CorrectifMovieCollection\MVVMTools\obj\Debug\net5.0\MVVMTools.AssemblyInfoInputs.cache
+C:\Users\Steve\source\Exemple\NetAngular\CorrectifMovieCollection\MVVMTools\obj\Debug\net5.0\MVVMTools.AssemblyInfo.cs
+C:\Users\Steve\source\Exemple\NetAngular\CorrectifMovieCollection\MVVMTools\obj\Debug\net5.0\MVVMTools.csproj.CoreCompileInputs.cache
+C:\Users\Steve\source\Exemple\NetAngular\CorrectifMovieCollection\MVVMTools\obj\Debug\net5.0\MVVMTools.dll
+C:\Users\Steve\source\Exemple\NetAngular\CorrectifMovieCollection\MVVMTools\obj\Debug\net5.0\ref\MVVMTools.dll
+C:\Users\Steve\source\Exemple\NetAngular\CorrectifMovieCollection\MVVMTools\obj\Debug\net5.0\MVVMTools.pdb
+C:\Users\Steve\source\Exemple\NetAngular\CorrectifMovieCollection\MVVMTools\obj\Debug\net5.0\MVVMTools.csproj.AssemblyReference.cache

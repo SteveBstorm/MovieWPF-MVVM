@@ -1,0 +1,10 @@
+C:\Users\Steve\source\Exemple\NetAngular\CorrectifMovieCollection\MovieDB\bin\Debug\MovieDB.dacpac
+C:\Users\Steve\source\Exemple\NetAngular\CorrectifMovieCollection\MovieDB\bin\Debug\MovieDB.dll
+C:\Users\Steve\source\Exemple\NetAngular\CorrectifMovieCollection\MovieDB\bin\Debug\MovieDB.pdb
+C:\Users\Steve\source\Exemple\NetAngular\CorrectifMovieCollection\MovieDB\obj\Debug\MovieDB.sqlproj.AssemblyReference.cache
+C:\Users\Steve\source\Exemple\NetAngular\CorrectifMovieCollection\MovieDB\obj\Debug\Model.xml
+C:\Users\Steve\source\Exemple\NetAngular\CorrectifMovieCollection\MovieDB\obj\Debug\refactor.xml
+C:\Users\Steve\source\Exemple\NetAngular\CorrectifMovieCollection\MovieDB\obj\Debug\postdeploy.sql
+C:\Users\Steve\source\Exemple\NetAngular\CorrectifMovieCollection\MovieDB\obj\Debug\predeploy.sql
+C:\Users\Steve\source\Exemple\NetAngular\CorrectifMovieCollection\MovieDB\obj\Debug\MovieDB.dll
+C:\Users\Steve\source\Exemple\NetAngular\CorrectifMovieCollection\MovieDB\obj\Debug\MovieDB.pdb
